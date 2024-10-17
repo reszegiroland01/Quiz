@@ -56,6 +56,7 @@ function addNewQuiz(){
     console.log(newQuiz)
 }
 
+ 
 
 function startGame(){
     let question = document.getElementById("question").value
