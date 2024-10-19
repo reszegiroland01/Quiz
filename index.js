@@ -127,7 +127,7 @@ function setUser(){
         }
         localStorage.setItem("user",JSON.stringify(userData))
     
-        window.location.href="../QUIZ/mode/index.html"
+        window.location.href="../quiz/mode/index.html"
     }
     
 }
